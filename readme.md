@@ -1,1 +1,1 @@
-Olá, esse ´rojeto ensina a usar o Git
+Olá, estou aprendendo a usar o Git
